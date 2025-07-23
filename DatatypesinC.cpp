@@ -70,7 +70,7 @@ Please enter a Character:
 z
 The Character is z and its size is 1 byte.
 Please enter a String: 
-Alex
+SAMEER
 The String is SAMEER and its size is 32 bytes.
 Please enter a Boolean value (True or False): 
 1
